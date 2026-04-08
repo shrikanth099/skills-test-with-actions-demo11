@@ -1,4 +1,4 @@
-name: Python Coverage
+name: Python Coverage test
  
 on:
   pull_request:
